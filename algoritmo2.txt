@@ -3,6 +3,9 @@ Celsius para Fahrenheit ou vice-versa.
 
 1: Leia TC, Temperatura em Celsius 
 2: Leia TF, Temperatura em Fahrenheit
-3: Faça TC/5 = (TF – 32)/9
+3: Se fornecida a temperatura em Fahrenheit
+4: Então resolver esta equação TC = (TF - 32)/1.8
+3: Se fornecida temperatura em Celsius
+4: Então resolver esta equação TF = TC . 1,8 + 32
 4: Escreva o resultado
 
