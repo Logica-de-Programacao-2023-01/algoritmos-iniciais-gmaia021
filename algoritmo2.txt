@@ -1,0 +1,8 @@
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em 
+Celsius para Fahrenheit ou vice-versa.
+
+1: Leia TC, Temperatura em Celsius 
+2: Leia TF, Temperatura em Fahrenheit
+3: Faça TC/5 = (TF – 32)/9
+4: Escreva o resultado
+
