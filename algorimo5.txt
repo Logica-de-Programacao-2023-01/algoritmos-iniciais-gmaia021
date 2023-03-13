@@ -1,0 +1,8 @@
+
+
+leia x
+leia lista
+para cada valor da lista, faça:
+  se o elemento_atual for igual a x:
+        escreva 
+escreva não encontrei
